@@ -30,7 +30,7 @@ const App = () => {
     cotizarCriptomoneda();
   }, [consultarAPI])
 
-  const componente = cargando ? <ActivityIndicator size='large' color='#5E49E2'/> : <Cotizacion resultado={resultadoCotizacion}/>;
+  const componente = cargando ? <ActivityIndicator size='large' color='#31888B'/> : <Cotizacion resultado={resultadoCotizacion}/>;
   
   return (
     <ScrollView>

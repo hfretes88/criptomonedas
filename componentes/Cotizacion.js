@@ -29,7 +29,7 @@ const Cotizacion = ({resultado}) => {
 
 const styles = StyleSheet.create({
     resultado:{
-        backgroundColor: '#5E49E2',
+        backgroundColor: '#31888B',
         padding: 20
     },
     texto:{

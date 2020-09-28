@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
         textTransform: 'uppercase',
         fontSize: 20,
         color: '#FFF',
-        backgroundColor: '#5E49E2',
+        backgroundColor: '#31888B',
         paddingBottom: 10,
         marginBottom: 30
     }
